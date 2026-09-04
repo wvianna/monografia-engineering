@@ -1,0 +1,23 @@
+├── SKILL.md
+├── rules/
+│   ├── abnt.md
+│   ├── academic-writing.md
+│   ├── engineering.md
+│   ├── citations.md
+│   ├── diagrams-mermaid.md
+│   ├── figures-tables.md
+│   ├── methodology.md
+│   ├── results.md
+│   └── quality-control.md
+├── workflows/
+│   ├── initialize.md
+│   ├── audit-workspace.md
+│   ├── write-chapter.md
+│   ├── review.md
+│   └── finalize.md
+└── templates/
+    ├── MONOGRAFIA_STATUS.md
+    ├── MONOGRAFIA_PLANO.md
+    ├── MONOGRAFIA_EVIDENCIAS.md
+    ├── MONOGRAFIA_RASTREABILIDADE.md
+    └── MONOGRAFIA_PENDENCIAS.md
